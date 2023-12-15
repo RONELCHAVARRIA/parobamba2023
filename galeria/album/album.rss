@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>galeria</title>
+   	<link>.</link>
+        <generator>jAlbum 26.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ronel7.jalbum.net/galeria/</jalbum:absolutePath>
+        <item>
+            <title>1</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/1.jpg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/1.jpg" width="179" height="120"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/1.jpg" width="1023" height="685"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>3 (1)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%281%29.jpg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%281%29.jpg" width="200" height="113"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%281%29.jpg" width="686" height="386"/>
+            <guid isPermaLink="false">slides/3%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>3 (3)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%283%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%283%29.jpeg" width="200" height="76"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%283%29.jpeg" width="720" height="274"/>
+            <guid isPermaLink="false">slides/3%20%283%29.jpeg</guid>
+        </item>
+        <item>
+            <title>3 (4)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%284%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%284%29.jpeg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%284%29.jpeg" width="720" height="480"/>
+            <guid isPermaLink="false">slides/3%20%284%29.jpeg</guid>
+        </item>
+        <item>
+            <title>3 (2)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%282%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%282%29.jpeg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%282%29.jpeg" width="720" height="540"/>
+            <guid isPermaLink="false">slides/3%20%282%29.jpeg</guid>
+        </item>
+        <item>
+            <title>3 (8)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%288%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%288%29.jpeg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%288%29.jpeg" width="720" height="540"/>
+            <guid isPermaLink="false">slides/3%20%288%29.jpeg</guid>
+        </item>
+        <item>
+            <title>3 (5)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%285%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%285%29.jpeg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%285%29.jpeg" width="720" height="540"/>
+            <guid isPermaLink="false">slides/3%20%285%29.jpeg</guid>
+        </item>
+        <item>
+            <title>3 (6)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%286%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%286%29.jpeg" width="200" height="112"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%286%29.jpeg" width="720" height="404"/>
+            <guid isPermaLink="false">slides/3%20%286%29.jpeg</guid>
+        </item>
+        <item>
+            <title>3 (7)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%287%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%287%29.jpeg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%287%29.jpeg" width="720" height="540"/>
+            <guid isPermaLink="false">slides/3%20%287%29.jpeg</guid>
+        </item>
+        <item>
+            <title>3 (1)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%281%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%281%29.jpeg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%281%29.jpeg" width="720" height="540"/>
+            <guid isPermaLink="false">slides/3%20%281%29.jpeg</guid>
+        </item>
+        <item>
+            <title>3 (9)</title>
+            <link>https://ronel7.jalbum.net/galeria/slides/3%20%289%29.jpeg</link>
+            <pubDate>Sun, 10 Dec 2023 13:44:02 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://ronel7.jalbum.net/galeria/thumbs/3%20%289%29.jpeg" width="200" height="112"/>
+            <media:content type="image/jpeg" url="https://ronel7.jalbum.net/galeria/slides/3%20%289%29.jpeg" width="720" height="404"/>
+            <guid isPermaLink="false">slides/3%20%289%29.jpeg</guid>
+        </item>
+    </channel>
+</rss>
